@@ -5,7 +5,8 @@ Hello, my name is Agnieszka. I'm starting my career as a manual tester. In this 
 
 # My work
 
-## Testing Scouts Panel application
+# Testing Scouts Panel application
+Link to the application:
 
 [Scouts Panel](https://scouts.futbolkolektyw.pl/pl/login?redirected=true)
 
@@ -13,7 +14,6 @@ Hello, my name is Agnieszka. I'm starting my career as a manual tester. In this 
 Test cases based on user story:
 
 [Test Cases- User Story](https://docs.google.com/document/d/1x5sTsQI7IxQ1qleXNk3y63XW2KPiHL8rcuWvVYaJn6g/edit)
-
 
 Test cases based on my experience:
 
@@ -27,10 +27,34 @@ Test cases based on my experience:
 
 [Test report](https://docs.google.com/document/d/1zazY6ulPNHTESfX71vTq3DC_WG9-BBsXxT9IcacUb6g/edit)
 
+# Tools 
+ * GitHub
+ * Devtools
+ * Xammp
+ * Slack
+ * Jira
 
-## Tools 
+# Tech Skills
+ * SQL
+ * HTML
+ * CSS
+ * Creating test cases
+ * Reporting bugs
 
+# Soft Skills
+ * communication- both verbal and written
+ * organizing
+ * problem- solving
+ * curiosity
+ * planning
+ * flexibility
+ * reliability
+ * empathy 
 
-## Courses
+# Courses
+ * DareIT Challenges- QA: Zostań Testerem Manualnym
+ * GoIT- Marathon HTML/ CSS
 
+# Books
+ * Radosław Smilgin- Zawód tester. Od decyzji do zdobycia doświadczenia. 
 
